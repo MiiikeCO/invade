@@ -1,0 +1,5 @@
+{
+  "name": "Retro Space Invaders",
+  "description": "A web-based clone of the classic 1980's arcade game, Space Invaders. Players control a laser cannon to defend against waves of descending aliens, earning points for each one they destroy.",
+  "requestFramePermissions": []
+}
